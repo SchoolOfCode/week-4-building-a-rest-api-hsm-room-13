@@ -24,7 +24,7 @@ The API will feature the following endpoints:
 | PATCH       | /quotes/:id | `{ quoteText: (String), author: (String) }` | An edited quote object        | 200         | Updates a quote                 |
 | DELETE      | /quotes/:id |                                           | A deleted quote object        | 200         | Deletes a quote                 |
 
-## 🎫 Ticket 1 - Starter files
+## 🎫 Ticket 1 - Starter files ✅
 
 This project has already been initialized for you using the `npm init` command.
 

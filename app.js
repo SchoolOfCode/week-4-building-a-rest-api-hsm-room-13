@@ -3,8 +3,6 @@ import express from "express";
 const app = express();
 const PORT = 3000;
 
-const PORT = 5500;
-
 import {
   getQuotes,
   getQuoteByID,
@@ -25,7 +23,6 @@ app.get("/", function (req, res) {
   app.get("/quotes", function (req, res) {
     res.send(getQuotes());
   });
-});
 // TASK 1:
 
 // Write a request handler to return the correct response and perform the correct action when a `GET` request is received to `/quotes`. 
