@@ -57,7 +57,7 @@ We've initialized `quotes.json` with an array of quote objects to get you starte
 
 💡 In your `.gitignore` file we've added "node_modules" as you don't want all of those files being pushed up to GitHub.
 
-### 🎫 Ticket 2 - Getting familiar with app.js
+### 🎫 Ticket 2 - Getting familiar with app.js ✅
 
 Open `app.js`.
 
